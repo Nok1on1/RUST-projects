@@ -1,0 +1,12 @@
+/home/noklon/RUST-projects/floppy/target/debug/deps/libbracket_color-c32f720271475162.rmeta: /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/lib.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/color_pair.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/hsv.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/lerpit.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/named.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/palette.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/rgb.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/rgba.rs
+
+/home/noklon/RUST-projects/floppy/target/debug/deps/bracket_color-c32f720271475162.d: /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/lib.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/color_pair.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/hsv.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/lerpit.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/named.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/palette.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/rgb.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/rgba.rs
+
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/lib.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/color_pair.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/hsv.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/lerpit.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/named.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/palette.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/rgb.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-color-0.8.7/src/rgba.rs:

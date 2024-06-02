@@ -1,0 +1,10 @@
+/home/noklon/RUST-projects/floppy/target/release/deps/libbracket_algorithm_traits-c6e3fffeef49c70b.rmeta: /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/lib.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/algorithm2d.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/algorithm3d.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/basemap.rs
+
+/home/noklon/RUST-projects/floppy/target/release/deps/libbracket_algorithm_traits-c6e3fffeef49c70b.rlib: /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/lib.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/algorithm2d.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/algorithm3d.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/basemap.rs
+
+/home/noklon/RUST-projects/floppy/target/release/deps/bracket_algorithm_traits-c6e3fffeef49c70b.d: /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/lib.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/algorithm2d.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/algorithm3d.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/basemap.rs
+
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/lib.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/algorithm2d.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/algorithm3d.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-algorithm-traits-0.8.7/src/basemap.rs:

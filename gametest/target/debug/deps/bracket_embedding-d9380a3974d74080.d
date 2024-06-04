@@ -1,0 +1,10 @@
+/home/noklon/RUST-projects/gametest/target/debug/deps/libbracket_embedding-d9380a3974d74080.rmeta: /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/lib.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/embedding.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/../resources/terminal8x8.png /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/../resources/vga8x16.png
+
+/home/noklon/RUST-projects/gametest/target/debug/deps/libbracket_embedding-d9380a3974d74080.rlib: /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/lib.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/embedding.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/../resources/terminal8x8.png /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/../resources/vga8x16.png
+
+/home/noklon/RUST-projects/gametest/target/debug/deps/bracket_embedding-d9380a3974d74080.d: /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/lib.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/embedding.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/../resources/terminal8x8.png /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/../resources/vga8x16.png
+
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/lib.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/embedding.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/../resources/terminal8x8.png:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bracket-embedding-0.8.7/src/../resources/vga8x16.png:

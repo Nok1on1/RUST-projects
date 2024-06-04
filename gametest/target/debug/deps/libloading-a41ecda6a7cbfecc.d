@@ -1,0 +1,12 @@
+/home/noklon/RUST-projects/gametest/target/debug/deps/liblibloading-a41ecda6a7cbfecc.rmeta: /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/lib.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/changelog.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/mod.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/mod.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/consts.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/util.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/error.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/safe.rs
+
+/home/noklon/RUST-projects/gametest/target/debug/deps/libloading-a41ecda6a7cbfecc.d: /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/lib.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/changelog.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/mod.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/mod.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/consts.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/util.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/error.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/safe.rs
+
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/lib.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/changelog.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/mod.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/mod.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/consts.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/util.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/error.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/safe.rs:

@@ -1,0 +1,11 @@
+/home/noklon/RUST-projects/gametest/target/debug/deps/libwayland_sys-db1f454779591a67.rmeta: /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/lib.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/common.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/client.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/server.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/egl.rs
+
+/home/noklon/RUST-projects/gametest/target/debug/deps/libwayland_sys-db1f454779591a67.rlib: /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/lib.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/common.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/client.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/server.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/egl.rs
+
+/home/noklon/RUST-projects/gametest/target/debug/deps/wayland_sys-db1f454779591a67.d: /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/lib.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/common.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/client.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/server.rs /home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/egl.rs
+
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/lib.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/common.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/client.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/server.rs:
+/home/noklon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-sys-0.29.5/src/egl.rs:
